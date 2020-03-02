@@ -3,8 +3,7 @@
 Created By: Thit Zaw
 Last Edited: Feb 20, 2020 7:57 AM
 
-Research Papers 📃📄 တွေ Thesis📓📔📒📚 တွေ ဘယ်မှာရှာမလဲ???
-အောက်ပါ link တွေမှာ ရှာဖွေ download ဆွဲနိုင်ပါသည်။
+Research Papers
 
 1. Google Scholar
 [https://scholar.google.com](https://scholar.google.com/)
@@ -29,7 +28,8 @@ Research Papers 📃📄 တွေ Thesis📓📔📒📚 တွေ ဘယ်မ
 [https://agricola.nal.usda.gov](https://agricola.nal.usda.gov/)
 12. Journal TOCs
 [http://www.journaltocs.hw.ac.uk](http://www.journaltocs.hw.ac.uk/)
-13. [Academicjournals.org](http://academicjournals.org/)[http://www.academicjournals.org](http://www.academicjournals.org/)
+13. [Academicjournals.org](http://academicjournals.org/)
+[http://www.academicjournals.org](http://www.academicjournals.org/)
 14. Journal Seek
 [http://journalseek.net](http://journalseek.net/)
 15. WorldWideScience
@@ -38,7 +38,3 @@ Research Papers 📃📄 တွေ Thesis📓📔📒📚 တွေ ဘယ်မ
 [www.nber.org/papers](http://www.nber.org/papers)
 16. Research Gate
 [https://www.researchgate.net/](https://www.researchgate.net/)
-
-Original Copy
-Source : MES
-အားလုံး ပညာခရီးလမ်းဖြောင့်ဖြူးကြပါစေ
