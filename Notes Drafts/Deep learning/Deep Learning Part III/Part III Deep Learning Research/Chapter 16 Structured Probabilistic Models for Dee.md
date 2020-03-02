@@ -1,0 +1,7 @@
+# Chapter 16 Structured Probabilistic Models for Deep Learning
+
+Class: deep learning
+Created: Jan 05, 2020 5:45 PM
+Materials: http://www.deeplearningbook.org/contents/graphical_models.html
+Reviewed: No
+Type: Study note
