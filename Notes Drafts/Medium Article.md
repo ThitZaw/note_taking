@@ -1,7 +1,7 @@
 # Medium Article
 
 Created By: Thit Zaw
-Last Edited: Feb 27, 2020 6:47 PM
+Last Edited: Apr 05, 2020 10:56 PM
 
 [https://towardsdatascience.com/you-can-now-speak-using-someone-elses-voice-with-deep-learning-8be24368fa2b](https://towardsdatascience.com/you-can-now-speak-using-someone-elses-voice-with-deep-learning-8be24368fa2b)
 
@@ -51,10 +51,18 @@ Last Edited: Feb 27, 2020 6:47 PM
 
 [https://medium.com/runscope/openapi-swagger-resource-list-for-api-developers-9f6d769d9c9d](https://medium.com/runscope/openapi-swagger-resource-list-for-api-developers-9f6d769d9c9d)
 
-[Copy of Data Visualization](Medium%20Article/Copy%20of%20Data%20Visualization.md)
+[An overview of every Data Visualization course on the internet](https://www.notion.so/An-overview-of-every-Data-Visualization-course-on-the-internet-9e426dff80b946419250eed3046cc2fc)
 
-[An overview of every Data Visualization course on the internet](Medium%20Article/An%20overview%20of%20every%20Data%20Visualization%20course%20on%20.md)
+[4 More Quick and Easy Data Visualizations in Python with Code](https://www.notion.so/4-More-Quick-and-Easy-Data-Visualizations-in-Python-with-Code-e18f1d01f93a43c8ae3158bfd2931013)
 
-[4 More Quick and Easy Data Visualizations in Python with Code](Medium%20Article/4%20More%20Quick%20and%20Easy%20Data%20Visualizations%20in%20Pytho.md)
+[Introducing Semiotic for Data Visualization - Elijah Meeks - Medium](https://www.notion.so/Introducing-Semiotic-for-Data-Visualization-Elijah-Meeks-Medium-39eea85a01744eff83b84e8293162321)
 
-[Introducing Semiotic for Data Visualization - Elijah Meeks - Medium](Medium%20Article/Introducing%20Semiotic%20for%20Data%20Visualization%20Elijah.md)
+[https://medium.com/javascript-in-plain-english/what-should-i-build-for-my-first-reactjs-project-4c575d04728](https://medium.com/javascript-in-plain-english/what-should-i-build-for-my-first-reactjs-project-4c575d04728)
+
+[https://medium.com/better-programming/heres-a-list-of-app-ideas-you-could-start-coding-today-b5f33f94a42e](https://medium.com/better-programming/heres-a-list-of-app-ideas-you-could-start-coding-today-b5f33f94a42e)
+
+[https://towardsdatascience.com/11-best-data-science-classes-if-youre-locked-home-because-of-coronavirus-ca7d2d74a454](https://towardsdatascience.com/11-best-data-science-classes-if-youre-locked-home-because-of-coronavirus-ca7d2d74a454)
+
+[https://medium.com/mind-cafe/the-7-habits-of-highly-ineffective-people-44b0ff317be](https://medium.com/mind-cafe/the-7-habits-of-highly-ineffective-people-44b0ff317be)
+
+[https://medium.com/better-programming/how-to-make-extra-money-as-a-programmer-144d76b76ffd](https://medium.com/better-programming/how-to-make-extra-money-as-a-programmer-144d76b76ffd)
