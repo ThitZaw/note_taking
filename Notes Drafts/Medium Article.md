@@ -67,4 +67,4 @@ Last Edited: Apr 05, 2020 10:56 PM
 
 [https://medium.com/better-programming/how-to-make-extra-money-as-a-programmer-144d76b76ffd](https://medium.com/better-programming/how-to-make-extra-money-as-a-programmer-144d76b76ffd)
 
-https://towardsdatascience.com/14-data-science-projects-to-do-during-your-14-day-quarantine-8bd60d1e55e1(https://towardsdatascience.com/14-data-science-projects-to-do-during-your-14-day-quarantine-8bd60d1e55e1)
+https://towardsdatascience.com/14-data-science-projects-to-do-during-your-14-day-quarantine-8bd60d1e55e1
